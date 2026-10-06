@@ -3,9 +3,9 @@
 **Operations & Data Analyst with people-leadership experience.**
 I turn messy operational data into clear decisions, and then I make sure those decisions actually work on the floor.
 
-- 📍 Silesia, Poland · open to remote work and relocation
-- 🎯 Looking for: **Data / BI / Business Analyst** and **Operations Manager** roles
-- ✅ Available immediately
+- Silesia, Poland · open to remote work and relocation
+- Looking for: **Data / BI / Business Analyst** and **Operations Manager** roles
+- Available immediately
 
 ---
 
