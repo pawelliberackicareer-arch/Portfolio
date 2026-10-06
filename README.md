@@ -40,11 +40,11 @@ Before that: market risk & asset management intern at **Skarbiec TFI**, real est
 
 ### 📂 Portfolio
 
-👉 **[analytics-portfolio](https://github.com/YOUR-USERNAME/analytics-portfolio)** — real-world projects rebuilt on synthetic data: SQL analysis, star-schema modelling, Power BI dashboards and Excel/VBA tools.
+👉 **[analytics-portfolio](https://github.com/pawelliberackicareer-arch/analytics-portfolio)** — real-world projects rebuilt on synthetic data: SQL analysis, star-schema modelling, Power BI dashboards and Excel/VBA tools.
 
 ---
 
 ### 📫 Contact
 
 - ✉️ pawelliberackicareer@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pawel-liberacki/)
